@@ -3,3 +3,4 @@ a poznie przymorze ble
 zle
 testing
 pierwszy
+drugi
