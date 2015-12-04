@@ -4,3 +4,4 @@ zle
 testing
 pierwszy
 drugi
+trzeci
